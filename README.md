@@ -1,5 +1,5 @@
 
-# MxOnline
+# EduOnline
 在线在线教育平台
 ## MyBlog
 博客里面有这个项目的详细教程
