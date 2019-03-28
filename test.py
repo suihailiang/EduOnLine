@@ -11,4 +11,9 @@ data=collection.find({"fragment_type" : "01"}).limit(2000)
 for json_data in data:
     for json_data1 in json_data["content"]:
         page=json_data1["page"]
+        
+        print("xingzeng")
         print(page)
+        
+        
+        print("xing")
